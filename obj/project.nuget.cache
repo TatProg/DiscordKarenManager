@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HbmbKlDysghUKLtbSmIo1orQbIHPFxJ8zNGeGwU6WYQ43vPGXsxgiegfFotLPMqClz27/XB51X6mhbIuOEudQ==",
+  "success": true,
+  "projectFilePath": "C:\\Games\\DiscordKarenManager\\DiscordChannelManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\great\\.nuget\\packages\\discord.net\\3.9.0\\discord.net.3.9.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\discord.net.commands\\3.9.0\\discord.net.commands.3.9.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\discord.net.core\\3.9.0\\discord.net.core.3.9.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\discord.net.interactions\\3.9.0\\discord.net.interactions.3.9.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\discord.net.rest\\3.9.0\\discord.net.rest.3.9.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\discord.net.webhook\\3.9.0\\discord.net.webhook.3.9.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\discord.net.websocket\\3.9.0\\discord.net.websocket.3.9.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\great\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
