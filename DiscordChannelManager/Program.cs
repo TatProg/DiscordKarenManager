@@ -6,6 +6,8 @@ using DiscordChannelManager.Configuration;
 using System.Collections.Concurrent;
 using System.Text.RegularExpressions;
 
+var token = Environment.GetEnvironmentVariable("BOT_TOKEN");
+
 Config config = await Config.Load();
 
 ConcurrentDictionary<ulong, CancellationTokenSource> activeUpdates = new();
@@ -23,7 +25,7 @@ bot.Log += message =>
 
 bot.UserVoiceStateUpdated += UserVoiceStateUpdated;
 
-await bot.LoginAsync(TokenType.Bot, config.Token);
+await bot.LoginAsync(TokenType.Bot, token);
 await bot.StartAsync();
 
 await Task.Delay(-1);
