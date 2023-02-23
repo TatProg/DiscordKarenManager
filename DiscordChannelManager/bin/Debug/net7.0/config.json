@@ -1,0 +1,30 @@
+{
+  "token": "MTA3NjQ5NTcxNDE0NzkwOTY4Mg.GF8fwr.Otc8UC69TEkN5wDBlBMVGIjZEPfNvEmp2sETI8",
+  "guilds": {"986998110100287498" : {
+    "categories" : { 
+      "987386838660571197" : {
+        "prefix" : "room-",
+        "postfix" : "",
+        "minCount" : 1 ,
+        "userLimit" : 3
+      },
+      "987387208392671234" : {
+        "prefix" : "room-",
+        "postfix" : "",
+        "minCount" : 1 ,
+        "userLimit" : 6
+      },
+      "987387311492845628" : {
+        "prefix" : "room-",
+        "postfix" : "",
+        "minCount" : 1,
+        "userLimit" : null
+
+      }
+
+    }
+
+  }
+
+  }
+}
